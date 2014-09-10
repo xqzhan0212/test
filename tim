@@ -3,3 +3,5 @@ do again
 local operation
 
 salve new branch
+
+git fetch    log
